@@ -1,3 +1,5 @@
+print('TEST')
+
 import sys
 
 
